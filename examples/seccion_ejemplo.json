@@ -1,0 +1,10 @@
+{
+  "seccion_id": 55,
+  "actividades": [
+    {"nombre": "Diagnóstico con el socio comunitario", "obligatoria": true, "estado": "Completada"},
+    {"nombre": "Planificación del servicio", "obligatoria": true, "estado": "Finalizada"},
+    {"nombre": "Ejecución en terreno", "obligatoria": true, "estado": "En curso"},
+    {"nombre": "Evaluación final", "obligatoria": true, "estado": "Pendiente"},
+    {"nombre": "Charla complementaria", "obligatoria": false, "estado": "Completada"}
+  ]
+}
